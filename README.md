@@ -2,7 +2,7 @@
 
 **Name:** Muhammad Abdullah
 
-**Role:** Software Developer 🚀
+**Role:** Software Developer 
 
 **Technical Skills:**
 - ⚛️ React Native
@@ -11,9 +11,9 @@
 - 🤖 AI/ML
 
 **Highlighted Projects:**
-- **Nutricare:** 🥗🤖 An AI-powered mobile app for malnutrition prediction
-- **Site Report:** 🏗️📱 AI-powered app for field inspectors to streamline site inspections
-- **Emotion-based Journal Chapter:** 😃📔 Web app that clusters entries by expressed emotions
+- **Nutricare:** 🥗🤖 An AI-powered app for malnutrition prediction
+- **Site Report:** 🏗️📱 An AI-powered app for field inspectors to streamline site inspections
+- **Emotion-based Journal Chapter:** 😃📔 A Web application that clusters entries by expressed emotions
 
 **Social Links:**
 - [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-1a3117203/) 🔗
@@ -23,8 +23,8 @@
 **Interests:**
 - ✍️ Writing
 - 🏏 Cricket
-- 🗳️ Sometimes politics
-- 🕰️ Nostalgia lover
+- 🗳️ Sometimes Politics
+- 🕰️ Nostalgia Lover
 
 **Personal Motto:**  
 ❤️ Live, Learn, Love!
