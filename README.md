@@ -1,6 +1,6 @@
 ## Profile Summary
 
-**Name:** Muhammad Abdullah
+**Name:** Muhammad Abdullah Liaquat
 
 **Role:** Software Developer 
 
